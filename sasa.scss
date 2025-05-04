@@ -1,0 +1,412 @@
+.int{
+    display: flex;
+    justify-content: center;
+     text-align: center;
+    align-items: center;
+   
+    width: 80%;
+   background-color: green;
+   color: white;
+   margin: 10px;
+   padding: 10px;
+   font-size: 10px;
+}
+
+.comnt{
+    display: flex;
+    justify-content: space-between;
+   
+    align-items: center;
+   
+    width: 80%;
+   background-color: pink;
+   color: black;
+   margin: 10px;
+   padding: 10px;
+   font-size: 10px;
+   img{
+    width: 30%;
+   }
+
+}
+.container{
+    width: 80%;
+    background-color: pink;
+    display: flex;
+    justify-content: space-around;
+   
+    align-items: center;
+    margin: 10px;
+    padding: 10px;
+    font-size: 10px;
+    text-align: center;
+    h2{
+       display: flex;
+       justify-content: center;
+    }
+   
+}
+.video1{
+    width: 80%;
+    background-color: pink;
+    display: flex;
+    justify-content: space-around;
+   
+    align-items: center;
+    margin: 10px;
+    padding: 10px;
+    font-size: 10px;
+    text-align: center;
+    h2{
+        width: 100%;
+        align-self: center;
+    }
+
+}
+.text{
+    display: flex;
+    justify-content: space-around;
+   
+    align-items: center;
+    margin: 10px;
+    padding: 10px;
+    font-size: 10px;
+    text-align: center;
+color: white;
+    width: 80%;
+    background-color: green;
+}
+.sap{
+    width: 80%;
+    background-color: pink;
+    
+    justify-content: space-around;
+   
+    align-items: center;
+    margin: 10px;
+    padding: 10px;
+    font-size: 10px;
+    text-align: center;
+    background-color: wheat;
+    width: 80%;
+    display: grid;
+    grid-template-columns: 3fr 1fr 1fr;
+    grid-template-rows:  repeat (3,1fr);
+    gap: 10px 5px;
+    
+ 
+    
+      
+}
+.sas{
+    width: 250px;
+    height: 280px;
+   
+    grid-column: 1/2;
+    grid-row: 1/4;
+    border-radius: 15px;
+    background-color: rgb(191, 171, 171);
+}
+.imgg{
+    width: 100%;
+    height: 80%;
+    border-radius: 10px;
+    background-color: pink;
+    
+}
+.img2{
+    border-radius: 10px;
+
+   width: 150px; ;
+    height: 100px;
+}
+.itm2{
+  
+    grid-column: 2/4;
+    grid-row: 3/4;
+   
+
+}
+.sa{
+    width: 80%;
+    background-color: pink;
+    display: flex;
+    justify-content: space-around;
+   
+    align-items: center;
+    margin: 10px;
+    padding: 10px;
+    font-size: 10px;
+    text-align: center;
+ 
+  
+
+   margin: 10px;
+   margin: 10px;
+   padding: 10px;
+   font-size: 10px;
+   font-size: 10px
+}
+.mm{
+    width: 80%;
+
+    
+   
+  background-color: pink;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+ text-align: center;
+    font-size: 10px
+
+}
+.imggi{
+  background-color: pink;
+  
+    display: flex;
+    justify-content: space-between;
+   
+    align-items: center;
+    margin: 10px;
+
+    
+ 
+
+}
+.text1{
+  
+    margin: 10px;
+    width: 80%;
+   
+ background-color: green;
+   display: grid;
+
+    font-size: 10px;
+    text-align: center;
+    color: white;
+    margin: 10px;
+    padding: 10px;
+    font-size: 10px;
+    text-align: center;
+color: white;
+    width: 80%;
+    
+}
+.sup{
+    background-color: pink, ;
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    padding: 10px;
+    font-size: 10px;
+    text-align: center;
+}
+
+.img3{
+    width: 80%;
+    display: flex;
+    width: 110px;
+    height: 110px;
+    margin: 10px;
+    padding: 10px;
+    font-size: 10px;
+    text-align: center;
+    
+  
+}
+
+.mmm{
+    width: 80%;
+
+ 
+    background-color: pink;
+    align-items: center;
+    margin: 10px;
+    margin: 10px;
+    padding: 10px;
+    font-size: 10px;
+    font-size: 10px;
+    border-radius: 10px;
+    
+}
+.fot{
+    width: 40% ;
+    border-radius: 0px;
+    border: 8px solid rgb(228, 82, 228);
+}
+.nam{
+    width: 80%;
+     display: flex;
+  text-align: center;
+    background-color: wheat;
+    align-items: center;
+    margin: 10px;
+    margin: 10px;
+    padding: 10px;
+    font-size: 10px;
+    font-size: 10px;
+    border-radius: 10px;
+    
+}
+.itm{
+    width: 40% ;
+  
+  
+   
+    border-radius: 50%;
+}
+.maus{
+    width: 80%;
+    display: grid;
+    justify-content: space-between;
+    background-color: rgb(130, 104, 56);
+    align-items: center;
+    margin: 10px;
+    margin: 10px;
+    padding: 10px;
+    font-size: 10px;
+    font-size: 10px;
+}
+.itm1{
+    display: flex;
+    width: 100px ;
+    border-radius: 50%;
+    box-shadow: 5px 5px 10px black;
+
+}
+.com{
+ display: flex;
+ justify-content: space-evenly;
+}
+.itm3{
+    width: 80%;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(192, 165, 116);
+    align-items: center;
+    margin: 10px;
+    margin: 10px;
+    padding: 10px;
+    font-size: 10px;
+    font-size: 10px;
+
+}
+.itm4{
+    width: 80%;
+    background-color: burlywood;
+  
+    width: 80%;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(192, 165, 116);
+    align-items: center;
+    margin: 10px;
+
+    padding: 10px;
+    font-size: 10px;
+
+
+}
+
+.itm5{  
+     width: 80%;
+    background-color: burlywood;
+  
+    width: 80%;
+    display: flex;
+    justify-content: space-evenly;
+   
+   
+    margin: 10px;
+
+    padding: 10px;
+}
+
+
+.foto1{
+    width: 100px;
+    border-radius: 30px;
+
+
+}
+.itm1{
+    width: 80%;
+    display: flex;
+}
+.nam{
+    display: flex;
+    justify-content: space-around;
+}
+.itm6{
+    width: 80%;
+    display: flex;
+    background-color: rgb(156, 101, 30);
+  
+    width: 80%;
+    display: flex;
+    justify-content: space-evenly;
+   
+    border-radius: 20px;
+    margin: 10px;
+
+    padding: 10px;
+}
+.ales{
+    background-color: black;
+    color: white;
+    width: 82%;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    text-align: center;
+ 
+    margin: 10px;
+
+ 
+   
+}
+.img4{
+    width: 300px;
+  height: 300px;
+
+
+}
+.itm7{
+    background-color: green;
+    color: white;
+    width: 80%;
+    height: 100px;
+    display: flex;
+
+    align-items: center;
+    text-align: center;
+     padding: 10px;
+   margin: 10px;
+  gap: 20px;
+  
+
+  }
+  .itm8{
+    background-color: black;
+    color: white;
+    width: 82%;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    text-align: center;
+   
+    margin: 10px;
+
+  }
+  .shef{
+  
+    width: 80%;
+    display: grid;
+  }
+  @media (max-width: 485px) {
+    body{
+      background-color: white;
+    }
+  }
