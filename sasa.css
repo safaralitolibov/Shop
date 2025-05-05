@@ -236,7 +236,6 @@
   margin: 10px;
   padding: 10px;
   font-size: 10px;
-  font-size: 10px;
 }
 
 .itm1 {
@@ -355,11 +354,16 @@
 }
 
 .shef {
+  display: grid;
+  place-items: center;
+  box-shadow: 5px 5px 100px gold;
   width: 80%;
+  height: 100%;
+  background-color: rgb(59, 42, 20);
   display: grid;
 }
 
-@media (max-width: 485px) {
+@media (max-width: 450px) {
   body {
     background-color: white;
   }
