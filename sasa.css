@@ -1,11 +1,12 @@
 .header {
-  width: 80%;
-  background-color: rgb(128, 85, 28);
+  width: 100%;
+  background-color: rgb(129, 43, 43);
   color: white;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   align-items: center;
   padding: 10px 20px;
+  border-radius: 50%;
   box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.3);
 }
 
@@ -27,7 +28,7 @@
 
 .footer {
   width: 80%;
-  background-color: rgb(128, 85, 28);
+  background-color: rgb(11, 103, 11);
   color: white;
   text-align: center;
   padding: 20px;
@@ -427,6 +428,6 @@
 @media (max-width: 480px) {
   body {
     width: 100%;
-    background-color: rgb(92, 89, 85);
+    background-color: rgb(74, 8, 32);
   }
 }/*# sourceMappingURL=sasa.css.map */
